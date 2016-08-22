@@ -1,16 +1,23 @@
+# Raw New Development ...
+
+*Not ready for use, lots of ideas forming and churning, the latest real release will be in the master branch.*
+
+---
+
 ## costin: COin and STamp INventory
 When I inherited a box of coins and stamps from my father, I wanted to organize them to see what was there.  I looked around for existing applications to help me inventory and catalog, but did not find one that excited me, so I did what comes naturally, decided to build my own.  
 
 costin will keep coin and stamp data and information separate from your inventory data; quantities and grades of what you own.
 
+---
 ### Installing costin
 The data store is Mongodb, it needs to be installed and configured.
 
 #### OSX
 ```
-  $ brew install Mongodb
+  $ brew install mongodb
 ```
-
+---
 ### Using costin
 #### Command Line
 ```bash
@@ -23,9 +30,10 @@ The data store is Mongodb, it needs to be installed and configured.
   $ costin --web
 ```
 
+---
 ## Contributing
 
-
+*We''ll get there soon*
 ## License
 MIT License
 
